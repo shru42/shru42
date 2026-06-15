@@ -48,11 +48,13 @@ I build backend systems that scale — clean APIs, solid data layers, and AI-pow
 
 ## 💼 Experience
 
-### Software Engineering Intern — IBM *(Jan 2026 – Present)*
-- Built and enhanced enterprise storage management features for **IBM FlashSystem** using Java and Spring Boot
-- Designed RESTful APIs and backend services for processing storage telemetry and diagnostic data
-- Performed unit testing, debugging, and performance optimization to improve application reliability
-- Collaborated with cross-functional teams to deploy scalable, production-ready solutions
+### Intern — IBM *(Jan 2026 – Present)*
+- Gained hands-on experience with enterprise-scale distributed storage 
+  systems, Linux internals, and production infrastructure at IBM scale
+- Developed technical depth in system diagnostics, failure analysis, 
+  and SLA-driven operations in high-availability environments
+- Collaborated with L3 engineering teams on critical production issues
+
 
 ---
 
@@ -80,9 +82,12 @@ Production-grade REST API for IT incident management — live on Railway.
 
 ## 📊 Competitive Programming
 
+
 - 🏆 **Rank 301 / 6,499** in CodeClash 2025 — top 5%
-- 💡 **800+ problems** solved on LeetCode & Codeforces — consistently top 10% on LeetCode
+- ⭐ **LeetCode rating 1750** · Global rank 88,726 / 874,367 · Top 10.37% · 36 contests
+- 💡 **800+ problems** solved across LeetCode & Codeforces
 - 🎯 Strong in: Graph algorithms, Dynamic Programming, Trees, Sliding Window
+- 🎓 **NTSE State-Level** qualifier — top percentile statewide
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/smayashruti28830/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/shruti_3)
