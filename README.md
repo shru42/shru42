@@ -84,9 +84,9 @@ Production-grade REST API for IT incident management — live on Railway.
 - 💡 **800+ problems** solved on LeetCode & Codeforces — consistently top 10% on LeetCode
 - 🎯 Strong in: Graph algorithms, Dynamic Programming, Trees, Sliding Window
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com)
-[![GFG](https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/smayashruti28830/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/shruti_3)
+[![GFG](https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white)]([https://geeksforgeeks.org](https://www.geeksforgeeks.org/profile/smayashruy7ut?tab=activity))
 
 ---
 
@@ -98,7 +98,7 @@ Production-grade REST API for IT incident management — live on Railway.
 
 ## 📫 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shruti)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shruti-pandey-3591a3265/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/shru42)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shruti26205@gmail.com)
 
