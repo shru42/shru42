@@ -2,7 +2,7 @@
 
 ** B.Tech CSE @ NIT Patna '26 ** (CGPA: 8.19) · Software Engineering Intern @ **IBM** · Seeking SDE / AI Engineer roles
 
-📍 India · 📧 shruti26205@gmail.com · 📱 8544131434
+📍 India · 📧 suru20526@gmail.com · 📱 8544131434
 
 ---
 
